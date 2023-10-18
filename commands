@@ -1,0 +1,4 @@
+npm init -y
+npm init @eslint/config
+npm i vitest -D
+npm i date-fns
